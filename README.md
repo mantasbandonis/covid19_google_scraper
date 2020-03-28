@@ -1,2 +1,3 @@
-# covid19_number_parser
- cvxv
+# Parser for Covid19 numbers
+ 
+ Data taken from https://google.org/crisisresponse/covid19-map
